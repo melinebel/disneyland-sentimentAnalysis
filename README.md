@@ -17,3 +17,8 @@ To address the above issue, I’ve decided to make use of Arush Chillar’s Disn
 - Review text
 
 The most significant features for our purposes will be both the body of the text and the respective rating assigned by the customer. Additionally, I’ll make use of both the date and user location features to gain further insights into customer satisfaction across time and regions. 
+
+
+[DisneylandSentimentAnalysis.pdf](https://github.com/user-attachments/files/18723102/DisneylandSentimentAnalysis.pdf)
+
+
